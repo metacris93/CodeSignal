@@ -1,3 +1,5 @@
+https://app.codesignal.com/challenge/pRuhLib5DdetsY4E7
+
 After recently joining Instacart's beta testing developer group, you decide to experiment with their new API. You know that the API returns item-specific display-ready strings like 10.0% higher than in-store or 5.0% lower than in-store that inform users when the price of an item is different from the one in-store. But you want to extend this functionality by giving people a better sense of how much more they will be paying for their entire shopping cart.
 
 Your app lets a user decide the total amount x they are willing to pay via Instacart over in-store prices. This you call their price sensitivity.
